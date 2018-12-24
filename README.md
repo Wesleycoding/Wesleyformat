@@ -1,4 +1,4 @@
-# Wesleyformat encryption and extraction guide.
+# Wesleyformat compression and extraction guide.
 To compress your .txt file to a .wes file, 
 1. Name your .txt file doc.txt and put it into the Compress folder.
 2. Click on Compressor.exe
